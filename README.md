@@ -1,2 +1,2 @@
-# multi_pjt
+# mtpjt
 다수개발자용 프로젝트
